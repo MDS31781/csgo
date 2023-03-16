@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\MDS\McDonalds\ordersignroof"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" .5
+	"$model" 1
+	"$envmapsaturation" .5
+	"$envmaptint" "[.5 .5 .5]"
+	"$surfaceprop" "metal"
+}
